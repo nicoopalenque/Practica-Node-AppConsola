@@ -1,9 +1,8 @@
 # Practica-Node-AppConsola
 
 ```
-```
-node app
-```
+$ node app
+
 Applicacion de consola con Node.
 Crea tabla de multiplicar en un archivo .txt
 
