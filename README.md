@@ -1,10 +1,13 @@
 # Practica-Node-AppConsola
 
 ```
-$ node app
-
 Applicacion de consola con Node.
 Crea tabla de multiplicar en un archivo .txt
+
+$ npm install
+$ node app
+
+Ejemplo: $ node app --base=5 -l --hasta=10
 
 Opciones:
       --help     Muestra ayuda                                        [booleano]
